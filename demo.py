@@ -8,6 +8,7 @@ curved = uf.add_five(scores)
 
 mean_c = uf.mean(curved)
 
+#Value of score and original mean
 print("Scores:", scores)
 print("Original Mean:", mean, " New Mean:", mean_c)
 
